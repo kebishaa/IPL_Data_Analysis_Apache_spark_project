@@ -7,3 +7,7 @@
 
 ## impact of winning toss on match outcomes
 ![image](https://github.com/user-attachments/assets/9bd8784f-7871-4f30-8a32-fdb0493d74cb)
+
+## most frequent dismissal types
+![image](https://github.com/user-attachments/assets/d586b01e-3d00-4a38-9a52-e0ac8e17d7f6)
+
